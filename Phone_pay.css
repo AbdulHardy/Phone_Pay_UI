@@ -1,0 +1,93 @@
+nav {
+    background-color: purple;
+    padding: 20px 0;
+}
+
+.navbar-brand > img {
+    width: 100%; 
+    max-width: 150px; 
+    height: auto;
+}
+
+.txt{
+    color: white;
+    margin-left: 12px;
+}
+.i1 {
+    width: 100%; 
+    max-width: 250px; 
+    margin: 0 auto; 
+    transform: rotate(20deg); 
+    display: block; 
+}
+
+.c1{
+    width: 18rem;
+}
+.card-header>img{
+    width: 3rem;
+    height: 3rem;
+}
+.card-header{
+    border: none;
+}
+.card-footer {
+    border: none;
+}
+.card-body> h5{
+    font-weight: 800;
+    color: black;
+}
+p{
+    font-weight: 400;
+}
+.c2{
+    width: 18rem;
+}
+.c3{
+    width: 18rem;
+}
+.footer{
+    background-color: rgb(235, 232, 228);
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+   
+}
+h3{
+    font-weight:normal;
+    font-family:monospace;
+    
+}
+.flogo>img{
+    height: 3rem;
+    width: 3rem;
+    border-radius: 350px;
+}
+.p1{
+    font-weight: normal;
+    font-size: 10px;
+}
+.fimg {
+    max-width: 50px;   
+    height: 20px;     
+}
+.fimg3{
+    max-width:140px;
+    height:30px;
+}
+.bt{
+    max-width: 120px;
+    height:25px;
+    padding-top: 0px;
+}
+@media (max-width: 576px) {
+    .i1 {
+    width: 100%; 
+    max-width: 200px; 
+    margin: 20px; 
+    transform: rotate(0deg); 
+    display: block; 
+    }
+    
+}
