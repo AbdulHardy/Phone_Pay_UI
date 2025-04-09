@@ -1,5 +1,29 @@
+@media (max-width: 576px) {
+    .i1 {
+    width: 100%; 
+    max-width: 200px; 
+    margin-top: 20px;
+    transform: rotate(0deg); 
+    }
+    .card{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+}
 @media (max-width:768px){
     .card{
-        display: flex;justify-content: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .m1{
+       text-align: center;
+    }
+    .m2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 }
